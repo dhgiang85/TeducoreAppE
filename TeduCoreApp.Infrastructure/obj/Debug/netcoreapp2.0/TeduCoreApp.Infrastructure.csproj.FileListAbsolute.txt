@@ -1,0 +1,9 @@
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\bin\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.deps.json
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\bin\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.dll
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\bin\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.pdb
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\obj\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.csprojResolveAssemblyReference.cache
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\obj\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\obj\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.AssemblyInfoInputs.cache
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\obj\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.AssemblyInfo.cs
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\obj\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.dll
+D:\MrGiang\Project\TeducoreAppE\TeduCoreApp.Infrastructure\obj\Debug\netcoreapp2.0\TeduCoreApp.Infrastructure.pdb
