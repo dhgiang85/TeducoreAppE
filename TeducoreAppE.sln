@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeducoreAppE", "TeducoreAppE\TeducoreAppE.csproj", "{139709DB-2371-451E-B06B-03B1C3645694}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{0480E27C-C654-41DA-9635-F8E8317D94C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{139709DB-2371-451E-B06B-03B1C3645694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139709DB-2371-451E-B06B-03B1C3645694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139709DB-2371-451E-B06B-03B1C3645694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139709DB-2371-451E-B06B-03B1C3645694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{139709DB-2371-451E-B06B-03B1C3645694} = {0480E27C-C654-41DA-9635-F8E8317D94C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC2392B-9C36-45BB-AD05-92B38E394988}
+	EndGlobalSection
+EndGlobal
